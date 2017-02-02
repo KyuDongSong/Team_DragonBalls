@@ -1,8 +1,14 @@
 package com.ktds.skd;
 
 public class TestMain {
+	
 	public static void main(String[] args) {
+		
 		System.out.println("WelCome DragonBall");
-		System.out.println("ì´íŒŒì¼ ì§€ìš°ê³  ì‘ì—…í•˜ë˜ì—¬");
+		System.out.println("ÀÌ ÆÄÀÏÀ» »èÁ¦ÇÏ°í ¼ÂÆÃÇØÁÖ¼¼¿ë!!");
+		System.out.println("¼öÁ¤");
+		
+		System.out.println("ÀÌ¿¹Áö");
+		
 	}
 }
