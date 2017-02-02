@@ -6,6 +6,7 @@ public class TestMain {
 		System.out.println("이파일 지우고 작업하래여");
 		
 		System.out.println("김정진");
+		System.out.println("채은");
 		System.out.println("송규동!!!!");
 		System.out.println("장거울");
 	}
